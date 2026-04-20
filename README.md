@@ -2,6 +2,10 @@
 
 A lightweight PyTorch-inspired deep learning framework implemented from scratch in C++. This is a hobby project to learn more about PyTorch and C++. 🤓
 
+## 📂 MNIST Dataset (Test)
+
+- 🖼️ [Test Images](./data/MNIST/raw/t10k-images-idx3-ubyte)  
+- 🏷️ [Test Labels](./data/MNIST/raw/t10k-labels-idx1-ubyte)
 
 
 ## Features
