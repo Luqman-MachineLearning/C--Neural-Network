@@ -1,6 +1,11 @@
 # Neural C++
 
 A lightweight PyTorch-inspired deep learning framework implemented from scratch in C++. This is a hobby project to learn more about PyTorch and C++. 🤓
+## 🧪 Tests
+
+- 🧾 [C++ Test File](./tests/tests.cpp)
+
+
 
 ## 📂 MNIST Dataset (Test)
 
