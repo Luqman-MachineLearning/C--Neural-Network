@@ -2,16 +2,7 @@
 
 A lightweight PyTorch-inspired deep learning framework implemented from scratch in C++. This is a hobby project to learn more about PyTorch and C++. 🤓
 
-## Youtube series
 
-I made a youtube series documenting my journey of building this library. Definitely subscribe if you are interested in AI 😀
-
-- [Part 1: From PyTorch to C++](https://youtu.be/BTkIWUupQpk)
-- [Part 2: Forward Pass](https://youtu.be/IJf3HhUJEeg)
-- [Part 3: Automatic Differentiation](https://youtu.be/sqF4tAcOin0)
-- [Part 4: Activation Functions and Modules](https://youtu.be/KTKd-EnLn6U)
-- [Part 5: Loss Functions and Gradient Descent](https://youtu.be/s0P4xH14D1k)
-- [Part 6: Training the Neural Network](https://youtu.be/yrCd-6s4E4A)
 
 ## Features
 
